@@ -1,0 +1,185 @@
+.contenor3{
+  width: 100%;
+  background-color: #E5E5E5;
+  margin: 0;
+  padding: 0 30px 0 0 ;
+  box-sizing: border-box;
+}
+.chevone{
+  background-color: #ffffff;
+  border-radius: 8px;
+  margin-top: 24px;
+}
+.chevone div{
+  display: flex;
+  padding: 0 10px;
+}
+.chevone p {
+  text-align: center;
+  padding: 0 20px;
+  display: flex;
+  font-weight: 500;
+}
+.chevone img{
+  width: 32px;
+  height: 32px;
+  border-radius:50% ;
+  position: relative;
+  top: 9px;
+}
+.chevone div i{
+font-size: 22px;
+position: relative;
+left: 41px;
+top:15px;
+}
+.card2{
+  height: 205px;
+  padding: 18px;
+  margin: 22px 0;
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+.propsinput{
+  margin: 0;
+  display: flex;
+}
+.card2 div h3{
+  margin: 0;
+}
+.propsinput p{
+  position: relative;
+  top: 1px;
+  right: -80px;
+  margin: 0;
+  font-weight: 300;
+  color: #FF656E;
+}
+.cardflex{
+  display: flex;
+  padding: 5px;
+}
+.cardflex div img{
+position: relative;
+left: 1px;
+top: 7px;
+margin-right: 18px;
+  width: 32px;
+  height: 32px;
+  border-radius:50% ;
+}
+.cardflex div p{
+  color:#C4C4C4;
+  font-weight: 300;
+  margin: 4px;
+  font-size: 18px;
+}
+.foodName{
+  width: 43%;
+}
+.overflow{
+  overflow: auto;
+  height: 95%;
+  width: 100%;
+}
+.Bsicon{
+  width: 10%;
+}
+.cardflex div button{
+  padding: 0 8px;
+  height: 50%;
+  font-size: 15px;
+  background-color: #ffffff;
+  border: 1px solid transparent;
+  position: relative;
+  left: 44px;
+  top: 8px;
+}
+.cardflex div button:hover i{
+  color: #FF656E;
+}
+.card3 {
+  background-color:#FFFFFF;
+  border-radius: 15px;
+  padding: 5px 10px;
+  margin: 15px 0;
+}
+.card3 p:nth-child(1){
+  font-size: 20px;
+  padding: 0 0 0 10px;
+  margin: 3px;
+}
+.card3 p i{
+  position: relative;
+  right: -100px;
+  top: 2px;
+  margin: 0;
+  font-size: 23px;
+  color: #FF656E;
+}
+.cardflex2{
+  display: flex;
+}
+.cardflex2 div img{
+width: 40px;
+height: 40px;
+position: relative;
+border-radius: 50%;
+}
+.cardflex2 > div{
+  padding: 5px 0 0 15px;
+}
+.cardflex2 > div p{
+  margin: 0;
+  color:#C4C4C4;
+  padding-top: 4px;
+  font-weight: 300;
+  font-size: 15px;
+}
+.cardRight{
+  position: relative;
+  top:11px;
+  left: 57px;
+}
+.cardRight2{
+  position: relative;
+  top:8px;
+  left: 46px;
+}
+.cardflex3 {
+  width: 100%;
+display: flex;
+position: relative;
+}
+.cardflex3 div p{
+margin: 2px;
+  font-size: 16px;
+  color: #C4C4C4;
+}
+.cardflex3 p:nth-child(2){
+position: absolute;
+top:-10px;
+right: 10px;
+}
+ .hr{
+  border: 1px dashed #C4C4C4;
+  width: 90%;
+  margin: 0 auto;
+}
+.cardflex3 div {
+  font-size: 20px;
+  padding: 4px 0 0 10px;
+}
+.cardflex3 b{
+  position: relative;
+  top:8px;
+  right: -154px;
+}
+.btnn{
+  background-color: #FF656E;
+  border: 1px solid #FF656E;
+  padding: 15px 20px;
+  width: 80%;
+  border-radius: 10px;
+  margin: 8px 30px;
+}

@@ -1,0 +1,54 @@
+.Search{
+  display: inline-flex;
+  width: 100%;
+  background-color: #E5E5E5;
+}
+.rowSearch{
+  width: 100%;
+  padding: 10px 30px 0;
+}
+.rowSearch div b{
+  display: flex;
+  width: 100%;
+}
+.rowSearch div b p{
+  width: 70%;
+  padding: 10px ;
+  border-radius:10px ;
+  background-color: #ffffff;
+}
+.rowSearch div b p i{
+  font-weight: 300;
+  color: #999999;
+  position: relative;
+  font-size: 23px;
+  left: 4px;
+  top: 3px;
+}
+.rowSearch div b p input{
+  outline: none;
+  padding: 0 13px;
+  font-size: 18px;
+  border: 0;
+}
+.iconst{
+  width: 30%;
+  float: right;
+  border-radius:10px ;
+  padding: 10px;
+}
+.iconst i{
+  background-color: white;
+  padding: 9px 11px;
+  justify-content: center;
+  text-align: center;
+  font-size: 27px;
+  float: right;
+  border-radius: 10px;
+  margin-top: 6px;
+}
+.ullist{
+  width: 100%;
+  padding: 0 0 10px 0;
+  margin: 0 auto;
+}
