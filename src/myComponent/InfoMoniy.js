@@ -5,9 +5,7 @@ import { BsXLg } from "react-icons/bs";
 import { FiEdit } from "react-icons/fi";
 import img1 from "../img/img1.jpg";
 export default function InfoMoniy(props) {
-
   const [Itmakf] = useState(1);
- 
   return (
     <div className="contenor3">
       <div>
